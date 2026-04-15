@@ -1,2 +1,2 @@
 # My-C-Projects
-Basic C++ projects, proof I know even simple data structures or algorithms curtesy of UC Santa Cruz.
+Implementation of core data structures in C++ focused on memory management and algorithmic efficiency.
